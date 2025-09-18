@@ -93,15 +93,6 @@ export default function App() {
             )}
           </main>
         </div>
-
-        <footer className="pokedex-footer">
-          <p>
-            Powered by the{" "}
-            <a href="https://pokeapi.co/" target="_blank" rel="noopener noreferrer">
-              PokéAPI
-            </a>
-          </p>
-        </footer>
       </div>
     </div>
   );
